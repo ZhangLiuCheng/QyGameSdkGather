@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/QyGameSdkGather.iml" filepath="$PROJECT_DIR$/QyGameSdkGather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qysdk/qysdk.iml" filepath="$PROJECT_DIR$/qysdk/qysdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdk360/sdk360.iml" filepath="$PROJECT_DIR$/sdk360/sdk360.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdklibrary/sdklibrary.iml" filepath="$PROJECT_DIR$/sdklibrary/sdklibrary.iml" />
+    </modules>
+  </component>
+</project>

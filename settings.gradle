@@ -1,0 +1,1 @@
+include ':app', ':qysdk', ':sdklibrary', ':sdk360'
